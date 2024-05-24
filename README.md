@@ -1,4 +1,4 @@
-## 🌟 Nome do projeto 🌟
+## 🌟 Flappy Bird 🌟
 
 ![Novato](https://img.shields.io/badge/novato-ff6c90?style=for-the-badge)
 ![Projeto Finalizado](https://img.shields.io/badge/projeto%20finalizado-00a154?style=for-the-badge)
