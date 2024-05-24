@@ -12,8 +12,6 @@ Jogo do Flappy Bird com HTML, CSS e JavaScript
 
 ### 📝 Requisitos Funcionais 📝
 
-Os requisitos funcionais do jogo Flappy Bird podem ser definidos com base nas funcionalidades essenciais que compõem o jogo. Aqui está uma lista detalhada desses requisitos:
-
 - O jogador deve poder controlar o pássaro pressionando a seta para cima do teclado para fazer o pássaro subir. Quando não há interação, o pássaro deve descer devido à gravidade
 - Os obstáculos (tubos) devem ser gerados periodicamente e de forma aleatória com espaços entre eles para o pássaro passar
 - Os obstáculos devem se mover horizontalmente da direita para a esquerda da tela
